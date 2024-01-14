@@ -3,8 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac OS
+.DS_Store
+
 # Data folder
 data/song_lyrics_english.csv
+data/.DS_Store
 
 # C extensions
 *.so
