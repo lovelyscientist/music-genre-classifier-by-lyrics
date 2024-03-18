@@ -9,6 +9,9 @@ __pycache__/
 # Data folder
 data/song_lyrics_english.csv
 data/.DS_Store
+vectorizer.pk
+svd.pk
+mlruns
 
 # C extensions
 *.so
